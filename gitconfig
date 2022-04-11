@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = srivastava.bhavika10@gmail.com
+	name = Bhavika Srivastava
